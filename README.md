@@ -1,4 +1,4 @@
-# auth-and-reg-vue2
+# d-lawyer
 
 ## Project setup
 ```
